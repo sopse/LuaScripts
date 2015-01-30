@@ -6,7 +6,7 @@ ZoneCheck = {}
 ZoneCheckName = "|CFF1CB619[Zone Check System]|r"
 
 ZoneCheck.Settings = {
-    TimeToTeleport = 10,                                    -- Set 0 to Instant Teleport
+    TimeToTeleport = 0,                                    -- Set 0 to Instant Teleport
     Spell = 9454,
 };
 
